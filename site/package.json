@@ -16,7 +16,7 @@
   "dependencies": {
     "@polka/send": "^0.4.0",
     "compression": "^1.7.4",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^9.18.5",
     "marked": "^0.6.2",
     "polka": "^0.5.2",
     "prismjs": "^1.16.0",
